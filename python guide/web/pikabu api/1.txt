@@ -1,0 +1,3308 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+				"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+				<html>
+				<head>
+					<title>Перфекционизм в Беларуси</title>
+					<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+					<meta name="yandex-verification" content="4810d7a06b7443d3" />
+					<meta name="keywords" content="" />
+					<meta name="description" content="Перфекционизм в Беларуси" />
+					<meta http-equiv="X-FRAME-OPTIONS" content="SAMEORIGIN" />
+					<meta property="fb:admins" content="100000072189793" />
+					<link rel="canonical" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676" />
+					<meta property="fb:app_id" content="586543721489673" />
+			
+				<meta name="twitter:card" content="summary_large_image" />
+				<meta name="twitter:site" content="@pikabu_vk" />
+				<meta name="twitter:title" content="Перфекционизм в Беларуси" />
+				<meta name="twitter:url" content="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676" />
+			
+					<meta name="twitter:image:src" content="http://s9.pikabu.ru/post_img/2016/12/14/11/og_og_1481740929212026173.jpg" />
+				
+				<meta property="article:author" content="http://www.facebook.com/pikabu.ru">
+				<meta property="article:publisher" content="http://www.facebook.com/pikabu.ru">
+				<meta property="og:type" content="article" />
+				<meta property="og:title" content="Перфекционизм в Беларуси" />
+				<meta property="og:url" content="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676" />
+				<meta property="og:image" content="http://s9.pikabu.ru/post_img/2016/12/14/11/og_og_1481740929212026173.jpg" />
+				<meta property="og:site_name" content="Пикабу" />
+			
+				<link id="favicon" rel="shortcut icon" href="http://cs.pikabu.ru/favicon2x.ico" type="image/x-icon">
+				<link rel="apple-touch-icon" sizes="144x144" href="http://cs.pikabu.ru/images/icon_ios144.png" />
+				<link rel="apple-touch-icon" sizes="114x114" href="http://cs.pikabu.ru/images/icon_ios114.png" />
+			
+				<script type="text/javascript">
+					// define initial parameters
+					var initParams = {"siteURL":"http:\/\/pikabu.ru\/","imgURL":"http:\/\/cs.pikabu.ru","userID":0,"userName":"","userKarma":0,"sessionID":"l6dbc48cj3m4997lvgq9sf0u45eb0tpb","userBanTime":"","isUserBanned":false,"isStoryAnimPreview":true,"isCommAnimPreview":true,"isScrollTopBtn":true,"isAjaxLoadMode":true,"isExpandedMode":true,"isCommentsBranchesHidden":false,"scriptName":"story.php","privateKey":"TTdtZjRO","uniqueBufferID":"8d0bd632f0","registrationKey":"c35bb21819","debugLocation":"","pickedDate":"2016-12-15","pageNumber":1,"environment":225,"developmentMode":false,"filter_name":"","upload_server_url":"http:\/\/u.pikabu.ru","max_comments_branch_depth":3};
+
+					/**
+					 * Create old global vars for back compatibility
+					 */
+					var logined = initParams.userID > 0 ? 1 : 0,
+						uCarma = initParams.userKarma,
+						phpSelf = initParams.scriptName,
+						ppk = initParams.privateKey,
+						bid = initParams.uniqueBufferID,
+						site_url = initParams.siteURL,
+						img_url = initParams.imgURL,
+						tag_str = "",
+						developmentMode = initParams.developmentMode,
+						is_twitmode = initParams.isAjaxLoadMode ? 1 : 0,
+						is_scrollmode = initParams.isExpandedMode ? 1 : 0,
+						regKey = initParams.registrationKey,
+						sessID = initParams.sessionID,
+						picker_date = new Date(initParams.pickedDate),
+						pl = 0,
+						page_num = initParams.pageNumber,
+						dev = initParams.developmentMode,
+						nextJS = {
+							mv: {
+								facebookWidget: false
+							},
+							adbix: 0,
+							banned: initParams.isUserBanned,
+							bannedTime: initParams.userBanTime,
+							best: "",
+							listDate: "",
+							gif: {
+							    background: true,
+							    showComment: !initParams.isCommAnimPreview,
+							    showStory: !initParams.isStoryAnimPreview
+							},
+							options: {
+							    autoShowGif: initParams.isCommAnimPreview
+							},
+							filterName: initParams.filter_name,
+							user: {
+							    id: initParams.userID,
+							    name: initParams.userName
+							},
+							scrollToTop: initParams.isScrollTopBtn,
+							hideSaveMenu: initParams.isHideSaveMenu,
+							location: initParams.debugLocation
+						};
+				</script>
+			
+			<link type="text/css" rel="stylesheet" href="http://cs.pikabu.ru/app/1.0.17/vendors/font-awesome/css/font-awesome.min.css">
+ 			<link type="text/css" rel="stylesheet" href="http://cs.pikabu.ru/app/1.1.264/main/style.css">
+		
+			<script type="text/javascript" charset="utf-8" src="http://cs.pikabu.ru/app/1.0.17/vendors/jquery/js/jquery.min.js"></script>
+ 			<script type="text/javascript" charset="utf-8" src="http://cs.pikabu.ru/app/1.1.264/main/app.js" id="applicationMain" data-environment="production" data-version="1.1.264"></script>
+		
+				<script type="text/javascript">
+					$.ajaxSetup({headers: {"X-Csrf-Token" : initParams.sessionID}});
+					$.browser = {safari: false, opera: false};
+				</script>
+			
+					<link href="http://cs.pikabu.ru/css/yadirect/dcomments_new.css?2" type="text/css" rel="stylesheet">
+				
+				<link href="http://cs.pikabu.ru/css/style2013_1.css?297" type="text/css" rel="stylesheet">
+				<link href="http://cs.pikabu.ru/css/style_new.css?65" type="text/css" rel="stylesheet">
+				<script type="text/javascript" src="http://cs.pikabu.ru/js/jquery.form.js"></script>
+				<script type="text/javascript" src="http://cs.pikabu.ru/js/over_js8.js?73"></script>
+
+				<script type="text/javascript" src="http://cs.pikabu.ru/js/select.js" defer></script>
+				<script type="text/javascript" src="http://cs.pikabu.ru/js/icq.js" defer></script>
+				<script type="text/javascript" src="http://cs.pikabu.ru/js/jquery.impromptu.js" defer></script>
+				<script type="text/javascript" src="http://cs.pikabu.ru/js/jquery.scrollTo.js" defer></script>
+				<script type="text/javascript" src="http://cs.pikabu.ru/js/jquery.color.js" defer></script>
+
+				<script type="text/javascript" src="http://cs.pikabu.ru/js/community.js" defer></script>
+				<script type="text/javascript" src="http://cs.pikabu.ru/js/dig.js?01" defer></script>
+				<script type="text/javascript" src="http://cs.pikabu.ru/js/main28.js?03" defer></script>
+				<script type="text/javascript" src="http://cs.pikabu.ru/js/ajax_login.js?04" defer></script>
+
+				<script type="text/javascript" src="http://cs.pikabu.ru/js/jquery.ui.core.min.js" defer></script>
+				<script type="text/javascript" src="http://cs.pikabu.ru/js/jquery-ui-1.10.4.custom.min.js" defer></script>
+				<script type="text/javascript" src="http://cs.pikabu.ru/js/jquery.ui.datepicker.min.js" defer></script>
+				<script type="text/javascript" src="http://cs.pikabu.ru/js/datepicker-ru.js" defer></script>
+				<script type="text/javascript" async src="https://relap.io/api/v6/head.js?token=cwtzjwuPjQ3w9Pfy"></script>
+			
+				<script type="text/javascript">
+				(function() {
+					var purl = window.location.href;
+					var url = '//ads.pubmatic.com/AdServer/js/pwt/155949/97';
+					var profileVersionId = '';
+					if(purl.indexOf('pwtv=')>0){
+						var regexp = /pwtv=(.*?)(&|$)/g;
+						var matches = regexp.exec(purl);
+						if(matches.length >= 2 && matches[1].length > 0){
+							profileVersionId = '/'+matches[1];
+						}
+					}
+					var wtads = document.createElement('script');
+					wtads.async = true;
+					wtads.type = 'text/javascript';
+					wtads.src = url+profileVersionId+'/pwt.js';
+					var node = document.getElementsByTagName('script')[0];
+					node.parentNode.insertBefore(wtads, node);
+				})();
+				</script>
+				</head>
+				<body style="background-color: white;">
+			
+				<div class="header-cont">
+			
+					<div>
+					<table id="header_t" class="header-table" cellpadding="0" cellspacing="0">
+						<tr>
+						<td class="header-logo">
+							<a href="http://pikabu.ru" class="no_ch">
+								<span class="b-logo"></span>
+							</a>
+						</td>
+						<td class="header-nav">
+							<table cellpadding="0" cellspacing="0">
+								<colgroup>
+									<col />
+									<col style="width: 222px;" />
+								</colgroup>
+								<tbody>
+								<tr>
+									<td colspan="2" class="header-nav-top">
+									</td>
+								</tr>
+								<tr>
+									<td class="header-nav-bottom">
+										<ul class="menu">
+			
+					<li class="active2"><a>Комментарии</a></li>
+				
+					<li class="noactive menu-item-default"><a href="http://pikabu.ru/hot" class="no_ch">Горячее</a></li>
+				
+					<li class="noactive menu-item-default"><a href="http://pikabu.ru/best" class="no_ch">Лучшее</a></li>
+				
+					<li class="noactive menu-item-default"><a href="http://pikabu.ru/new" class="no_ch">Свежее</a></li>
+				
+					<li class="noactive menu-item-default large"><a href="http://pikabu.ru/communities" class="no_ch">Сообщества</a></li>
+				
+											</ul>
+										</td>
+										<td class="header-nav-right">
+										</td>
+									</tr>
+									</tbody>
+									</table>
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			
+					<div id="wrap">
+				
+				<table border="0" cellspacing="0" cellpadding="0" style="width: 100%">
+					<tr>
+						<td style="vertical-align: top; text-align: center" class="main-b">
+							<table class="inner_wrap" cellspacing="0" cellpadding="0">
+			
+					<col />
+					<col class="inner_wrap_content" />
+					<tr>
+						<td>&nbsp;</td>
+						<td style="padding-left: 0px; padding-right: 0px; text-align: left;">
+				<!-- cached -->
+				<div class="page-story" data-user-in-comments="0">
+			
+					<input type="hidden" name="save-cats" value="[{&quot;id&quot;:0,&quot;name&quot;:&quot;\u041e\u0431\u0449\u0435\u0435&quot;,&quot;count&quot;:1}]">
+				
+				<!--story_4685676_start-->
+				<div class="story" data-story-id="4685676" data-visited="false" data-story-long="false">
+					<div class="story__left">
+				
+					<div class="story__rating-block" data-vote="0" data-story-id="4685676" data-can-vote="true">
+						<div class="story__rating-up" title="Поставить плюсик"></div>
+						<div class="story__rating-count">
+				316
+						</div>
+						<div class="story__rating-down" title="Поставить минус"></div>
+					</div>
+				
+					<div class="story__scroll-wrapper">
+						<div class="story__scroll">
+							<div class="story__toggle-button story__toggle-button-scroll" title="Показать/скрыть пост" data-story-id="4685676" data-story-long="false" data-story-type="image">
+								<i class="i-sprite--inline-block i-sprite--feed__image-hide"></i>
+							</div>
+						</div>
+					</div>
+				</div>
+			
+				<div class="story__main">
+					<div class="story__header first_story">
+						<div class="story__header-title">
+			
+					<a href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676" target="_blank"  class="story__title-link ">Перфекционизм в Беларуси</a>
+				
+				</div>
+			
+				<div class="story__header-additional">
+			
+					<!--noindex-->
+					<div class="story__toggle-button" title="Показать/скрыть пост" data-story-id="4685676" data-story-long="false" data-story-type="image">
+						<i class="i-sprite--inline-block i-sprite--feed__image-hide"></i>
+					</div>
+					<!--/noindex-->
+				
+				<div class="story__header-additional-wrapper">
+			<a class="story__comments-count story__to-comments" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comments">41 Комментарий</a> <img src="http://cs.pikabu.ru/assets/svg/user.svg" width="10" height="11" class="story__user-icon"><a class="story__author" href="http://pikabu.ru/profile/Week2nd">Week2nd</a>
+				<div class="story__date" title="1481740928">2 часа назад</div>&nbsp;
+			
+				<div class="story__tags">
+			
+						<a href="http://pikabu.ru/tag/%C1%E5%EB%E0%F0%F3%F1%FC/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;Беларусь&quot;">
+							Беларусь
+						</a>
+					
+						<a href="http://pikabu.ru/tag/%EF%EE%EB%E5/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;поле&quot;">
+							поле
+						</a>
+					
+						<a href="http://pikabu.ru/tag/%E8%E4%E5%E0%EB%FC%ED%EE/hot" target="_blank" class="story__tag" title="Поиск по тегу &quot;идеально&quot;">
+							идеально
+						</a>
+					
+				</div>
+			
+					<div class="story__save i-sprite--comments__save" data-story-id="4685676" title="Сохранить" data-saved="false"></div>
+				
+				</div>
+			
+							</div>
+						</div>
+					<div class="story__wrapper" style="display: block">
+			
+				<div class="b-story__content b-story__content_type_media " data-expanded="1">
+			
+					<a href="http://cs9.pikabu.ru/post_img/big/2016/12/14/11/1481740819196820833.jpg" target="_blank">
+						<img src="http://cs9.pikabu.ru/post_img/2016/12/14/11/1481740819196820833.jpg"  width="600" height="405" data-large-image="http://cs9.pikabu.ru/post_img/big/2016/12/14/11/1481740819196820833.jpg" data-viewable="true" alt="Перфекционизм в Беларуси"
+							 data-bigger-available="true">
+					</a>
+				
+				</div>
+			
+				<div class="story__footer">
+			
+					<ul class="story__rating-block story__rating-block_small" data-story-id="4685676">
+						<li class="story__rating-up-small " data-rating="up">
+							<i class="i-sprite--comments__rating-up"></i>
+						</li>
+						<li class="story__rating-down-small " data-rating="down">
+							<i class="i-sprite--comments__rating-down"></i>
+						</li>
+					</ul>
+				
+					<div class="story__slide-up">свернуть</div>
+				</div>
+			
+						</div>
+					</div>
+				</div>
+				<!--story_4685676_end-->
+			
+					</div>
+				
+					<table class="inner_wrap" cellspacing="0" cellpadding="0">
+						<colgroup>
+							<col/>
+							<col class="inner_wrap_content"/>
+						</colgroup>
+						<tbody>
+						<tr>
+							<td></td>
+							<td>
+				
+				<noindex>
+				<!--+ social segment frontend-web-pikabu#330 -->
+				<div class="b-social" data-url="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676" data-title="Перфекционизм в Беларуси" data-image="http://s9.pikabu.ru/post_img/2016/12/14/11/og_og_1481740929212026173.jpg" data-description="" data-time="1481740928">
+					<div class="b-social__buttons">
+						<div class="b-social-button b-social-button_type_facebook">
+							<div class="fb-like" style="margin-right: -4px;" data-href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+							<i class="i-sprite--social__facebook"></i><span class="b-social-button__counter" style="vertical-align: top">0</span>
+						</div>
+						<div class="b-social-button b-social-button_type_vk">
+							<span class="b-social-button__icon"><i class="i-sprite--social__vk"></i></span><span class="b-social-button__counter">0</span>
+						</div>
+						<div class="b-social-button b-social-button_type_twitter">
+							<span class="b-social-button__icon"><i class="i-sprite--social__twitter"></i></span><span class="b-social-button__counter">0</span>
+						</div>
+						<div class="b-social-button b-social-button_type_save" data-count="7" data-saved="false" data-story-id="4685676">
+							<span class="b-social-button__icon-save">
+								<span class="b-social-button__icon-in i-sprite--social__save" style=""></span>
+								<span class="b-social-button__icon-in i-sprite--social__saved" style="visibility: hidden;"></span>
+							</span><span class="b-social-button__counter">0</span>
+						</div>
+					</div>
+					<div class="b-social__widgets">
+						<div class="b-social-widget b-social-widget_type_vk" style="display: none">
+							<div id="social-vk-widget"></div>
+							<a class="b-social-widget__link" href="#">Я уже с вами :)</a>
+						</div>
+						<div class="b-social-widget b-social-widget_type_twitter" style="display: none">
+							<div id="social-twitter-widget">
+								<a class="twitter-timeline" width="300"height="320" data-dnt="true" href="https://twitter.com/pikabu_vk" data-widget-id="568363779285860352">Твиты от @pikabu_vk</a>
+							</div>
+							<a class="b-social-widget__link" href="#">Я уже с вами :)</a>
+						</div>
+						<div class="b-social-widget b-social-widget_type_facebook" style="display: none"п>
+							<!--div class="b-social-widget__decoration i-sprite--social__decoration"></div-->
+							<div class="b-social-widget__wrapper">
+								<!--div class="fb-like-box" data-href="https://www.facebook.com/pikabu.ru" data-width="580" data-height="180" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div-->
+								<div class="b-social-widget__facebook-subscribe">Подписаться на Пикабу: </div><div class="fb-like" data-href="https://www.facebook.com/pikabu.ru" data-layout="standard" data-action="like" data-show-faces="false" data-share="false"></div>
+							</div>
+							<a class="b-social-widget__link b-social-widget__link_type_facebook" href="#">Я уже с вами :)</a>
+						</div>
+					</div>
+				</div>
+				<!--- social segment frontend-web-pikabu#330 -->
+			
+				<div class="b-story-duplicates" style="display: none;"></div>
+				<div class="b-story-info" id="comments">
+				<div class="b-story-info__main">
+			41 комментарий, по <span class="b-story-info__set-order" title="изменить порядок комментариев">актуальности</span>
+						<div class="b-story-info__box-order" style="display: none;">
+							<p><label><input type="radio" name="comment_order" value="1" > Рейтингу</label></p>
+							<p><label><input type="radio" name="comment_order" value="2" > Времени</label></p>
+							<p><label><input type="radio" name="comment_order" value="3" checked="checked"> Актуальности</label></p>
+						</div>
+					</div>
+					<div class="b-story-info__custom">
+			
+					<div class="b-story__rating" data-pluses="342" data-minuses="26">
+						<span class="b-story__rating-pluses" style="width: 93%"></span><span class="b-story__rating-minuses" style="width: 7%"></span>
+					</div>
+				
+					<i class="b-story-info__duplicates i-sprite--page-story__duplicates-no"
+						title="дубликатов не найдено" data-has="false"
+						data-story-id="4685676"></i>
+				
+					</div>
+				
+				</div>
+			</noindex>
+				<div class="b-comments_type_main" data-ignore-code="0">
+			
+				<div id="comment_77625931" class="b-comment" data-id="77625931" data-parent-id="0" data-level="0" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">+11</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/PollsonGoga"><img src="http://cs6.pikabu.ru/images/avatars/870/s870900-1133651251.jpg">&nbsp;<span class="">PollsonGoga</span></a> 
+								<span>отправлено</span>
+								<time class="b-comment__time" datetime="1481742837">1 час назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77625931" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77625931" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<p>Обязательно какой нибудь конь лажанет и оставить полосочку тоньше чем с пи*ды волосок и вот кто идет с ебучей косой через все поле доделывать работу. И кстати Александр Грыгорыч, сели смотрите пост- сделайте что нибудь с пиовм Крынница экспортное- за два года я ни разу не смог открыть вашу крышку твист офф- ее даже откоывашкой с трудом открываешь.</p>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: inline-block">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">4</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: block">
+			
+				<div id="comment_77626569" class="b-comment" data-id="77626569" data-parent-id="77625931" data-level="1" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">+14</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/BatonioAnderans"><img src="http://cs6.pikabu.ru/images/avatars/1416/s1416702-172976543.jpg">&nbsp;<span class="">BatonioAnderans</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481743480">1 час назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77626569" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77626569" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" ></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" ></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<blockquote>вот кто идет с ебучей косой через все поле доделывать работу</blockquote><p>Заткнись, заткнись!</p>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: none">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">0</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: none">
+			
+					</div>
+				</div>
+			
+				<div id="comment_77626221" class="b-comment" data-id="77626221" data-parent-id="77625931" data-level="1" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">+8</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/Week2nd"><img src="http://cs6.pikabu.ru/images/avatars/1316/s1316770-955812535.jpg">&nbsp;<span class=" b-comment__user_author_story">Week2nd</span></a> 
+								<span>отправила</span>
+								<time class="b-comment__time" datetime="1481743115">1 час назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77626221" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77626221" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" ></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" ></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							Пей Лидское, оно смачнее:)
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: inline-block">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">1</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: block">
+			
+				<div id="comment_77628902" class="b-comment" data-id="77628902" data-parent-id="77626221" data-level="2" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">+1</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/donnervetter"><img src="http://cs6.pikabu.ru/images/avatars/432/s432553.jpg?1453172752">&nbsp;<span class="">donnervetter</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481746176">56 минут назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77628902" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77628902" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" ></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" ></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							Два пилснера этому господину!
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: none">
+						<div class="b-comment-toggle__icon fa fa-plus-square"></div>
+						<div class="b-comment-toggle__count" style="display: block">раскрыть ветвь <span class="b-comment-toggle__count-text">0</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: none">
+			
+					</div>
+				</div>
+			
+					</div>
+				</div>
+			
+				<div id="comment_77626491" class="b-comment" data-id="77626491" data-parent-id="77625931" data-level="1" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">+1</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/sergionrg"><img src="http://cs6.pikabu.ru/images/avatars/325/s325101-75548401.jpg">&nbsp;<span class="">sergionrg</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481743391">1 час назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77626491" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77626491" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" ></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" ></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<p>Гвоздём пробивать.</p>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: none">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">0</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: none">
+			
+					</div>
+				</div>
+			
+					</div>
+				</div>
+			
+				<div id="comment_77625226" class="b-comment" data-id="77625226" data-parent-id="0" data-level="0" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">+7</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/AndekShiva"><img src="http://cs6.pikabu.ru/images/avatars/657/s657259-1779609108.jpg">&nbsp;<span class="">AndekShiva</span></a> 
+								<span>отправила</span>
+								<time class="b-comment__time" datetime="1481742079">2 часа назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77625226" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77625226" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							Странно они как то картоху собирают
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: inline-block">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">2</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: block">
+			
+				<div id="comment_77626507" class="b-comment" data-id="77626507" data-parent-id="77625226" data-level="1" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">+4</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/triplex86"><img src="http://cs6.pikabu.ru/images/avatars/549/s549315.jpg?1785730605">&nbsp;<span class="">triplex86</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481743414">1 час назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77626507" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77626507" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" ></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" ></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							А это не картоха.<br><noindex><a rel="nofollow" href="https://blog.wwf.de/soja-paraguay/" target="_blank">https://blog.wwf.de/soja-paraguay/</a></noindex>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: inline-block">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">1</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: block">
+			
+				<div id="comment_77627718" class="b-comment" data-id="77627718" data-parent-id="77626507" data-level="2" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">+3</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/AndekShiva"><img src="http://cs6.pikabu.ru/images/avatars/657/s657259-1779609108.jpg">&nbsp;<span class="">AndekShiva</span></a> 
+								<span>отправила</span>
+								<time class="b-comment__time" datetime="1481744755">1 час назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77627718" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77627718" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" ></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" ></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<p>а это картоха </p><div class="b-p b-p_type_image"><a href="http://cs8.pikabu.ru/images/big_size_comm/2016-12_3/1481744754159072630.jpg"><img class="b-image" data-viewable="true" data-large-image="http://s8.pikabu.ru/images/big_size_comm/2016-12_3/1481744754159072630.jpg" src="http://cs8.pikabu.ru/images/previews_comm/2016-12_3/1481744754159072630.jpg" data-width="400" data-height="259"></a></div>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: none">
+						<div class="b-comment-toggle__icon fa fa-plus-square"></div>
+						<div class="b-comment-toggle__count" style="display: block">раскрыть ветвь <span class="b-comment-toggle__count-text">0</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: none">
+			
+					</div>
+				</div>
+			
+					</div>
+				</div>
+			
+					</div>
+				</div>
+			
+				<div id="comment_77624273" class="b-comment" data-id="77624273" data-parent-id="0" data-level="0" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">+4</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/breast"><span class="">breast</span></a> 
+								<span>отправлено</span>
+								<time class="b-comment__time" datetime="1481741099">2 часа назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77624273" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77624273" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							обычный фотошоп
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: inline-block">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">1</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: block">
+			
+				<div id="comment_77625734" class="b-comment" data-id="77625734" data-parent-id="77624273" data-level="1" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">+2</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/EvgeshA89"><img src="http://cs6.pikabu.ru/images/avatars/418/s418444.jpg?746487019">&nbsp;<span class="">EvgeshA89</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481742613">1 час назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77625734" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77625734" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" ></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" ></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<p>Ну либо они на землю собранную продукцию скидывают, либо фш, либо ради фото так все встали (хотя на*уй это им надо?).</p>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: none">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">0</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: none">
+			
+					</div>
+				</div>
+			
+					</div>
+				</div>
+			
+				<div id="comment_77629147" class="b-comment" data-id="77629147" data-parent-id="0" data-level="0" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">+1</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/Bartalameus"><img src="http://cs6.pikabu.ru/images/avatars/1492/s1492117-105643758.jpg">&nbsp;<span class="">Bartalameus</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481746460">51 минуту назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77629147" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77629147" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							 <div class="b-p b-p_type_image"><a href="http://cs5.pikabu.ru/images/big_size_comm/2015-10_2/1444408185148165424.jpg"><img class="b-image" data-viewable="true" data-large-image="http://s5.pikabu.ru/images/big_size_comm/2015-10_2/1444408185148165424.jpg" src="http://cs5.pikabu.ru/images/previews_comm/2015-10_2/1444408185148165424.jpg" data-width="400" data-height="266"></a></div>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: none">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">0</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: none">
+			
+					</div>
+				</div>
+			
+				<div id="comment_77628563" class="b-comment" data-id="77628563" data-parent-id="0" data-level="0" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">+1</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/awkwardSilence"><img src="http://cs6.pikabu.ru/images/avatars/842/s842140-945544431.jpg">&nbsp;<span class="">awkwardSilence</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481745781">1 час назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77628563" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77628563" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<p>Это выглядит намного круче истребителей у Майкла Бэя, летящих клином.</p><p>Это охуенно, Властелины Картофеля<br></p>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: none">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">0</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: none">
+			
+					</div>
+				</div>
+			
+				<div id="comment_77627523" class="b-comment" data-id="77627523" data-parent-id="0" data-level="0" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">+1</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/IntrestingPortal"><span class="">IntrestingPortal</span></a> 
+								<span>отправлено</span>
+								<time class="b-comment__time" datetime="1481744525">1 час назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77627523" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77627523" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<div class="b-p b-p_type_image"><a href="http://cs5.pikabu.ru/images/big_size_comm/2015-11_5/14483579951119372.jpg"><img class="b-image" data-viewable="true" data-large-image="http://s5.pikabu.ru/images/big_size_comm/2015-11_5/14483579951119372.jpg" src="http://cs5.pikabu.ru/images/previews_comm/2015-11_5/14483579951119372.jpg" data-width="400" data-height="225"></a></div>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: none">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">0</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: none">
+			
+					</div>
+				</div>
+			
+				<div id="comment_77626171" class="b-comment" data-id="77626171" data-parent-id="0" data-level="0" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">+1</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/donnervetter"><img src="http://cs6.pikabu.ru/images/avatars/432/s432553.jpg?1453172752">&nbsp;<span class="">donnervetter</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481743078">1 час назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77626171" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77626171" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<p>в голове заиграл "Полёт валькирий"</p>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: inline-block">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">3</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: block">
+			
+				<div id="comment_77628389" class="b-comment" data-id="77628389" data-parent-id="77626171" data-level="1" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">0</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/Yoda"><img src="http://cs6.pikabu.ru/images/avatars/42/s42666.jpg">&nbsp;<span class="">Yoda</span></a> 
+								<span>отправлено</span>
+								<time class="b-comment__time" datetime="1481745575">1 час назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77628389" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77628389" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" ></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" ></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<noindex><a rel="nofollow" href="https://youtu.be/hTF1cYPQ684" target="_blank">https://youtu.be/hTF1cYPQ684</a></noindex>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: inline-block">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">2</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: block">
+			
+				<div id="comment_77628825" class="b-comment" data-id="77628825" data-parent-id="77628389" data-level="2" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">0</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/donnervetter"><img src="http://cs6.pikabu.ru/images/avatars/432/s432553.jpg?1453172752">&nbsp;<span class="">donnervetter</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481746088">57 минут назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77628825" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77628825" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" ></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" ></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							И как теперь вернуть Вагнера????
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_expand" style="display: inline-block">
+						<div class="b-comment-toggle__icon fa fa-plus-square"></div>
+						<div class="b-comment-toggle__count" style="display: block">раскрыть ветвь <span class="b-comment-toggle__count-text">1</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: none">
+			
+				<div id="comment_77629598" class="b-comment" data-id="77629598" data-parent-id="77628825" data-level="3" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария"><i class="i-sprite--comments__rating-lock i-sprite--inline-block" title="Рейтинг скрыт в течение 45 минут после добавления комментария"></i></div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/Yoda"><img src="http://cs6.pikabu.ru/images/avatars/42/s42666.jpg">&nbsp;<span class="">Yoda</span></a> 
+								<span>отправлено</span>
+								<time class="b-comment__time" datetime="1481747070">41 минуту назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77629598" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77629598" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" ></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" ></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<noindex><a rel="nofollow" href="https://youtu.be/4wajS9VSPdk" target="_blank">https://youtu.be/4wajS9VSPdk</a></noindex>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: none">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">0</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: none">
+			
+					</div>
+				</div>
+			
+					</div>
+				</div>
+			
+					</div>
+				</div>
+			
+					</div>
+				</div>
+			
+				<div id="comment_77624748" class="b-comment" data-id="77624748" data-parent-id="0" data-level="0" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">+1</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/alexdn2005"><img src="http://cs6.pikabu.ru/images/avatars/1512/s1512321-1353734083.jpg">&nbsp;<span class="">alexdn2005</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481741562">2 часа назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77624748" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77624748" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<p>Мне одному в этом видится что это не рентабельно? Без халявной русской горючки можно и не начинать</p>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: inline-block">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">13</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: block">
+			
+				<div id="comment_77624971" class="b-comment" data-id="77624971" data-parent-id="77624748" data-level="1" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">+4</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/Patrikey1"><img src="http://cs6.pikabu.ru/images/avatars/1280/s1280117-1009621478.jpg">&nbsp;<span class="">Patrikey1</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481741796">2 часа назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77624971" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77624971" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" ></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" ></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<p>Как раз при быстрой уборке, минимальные потери зерна. Но терзают меня смутные сомнения что на фото не Беларусь.</p>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: inline-block">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">11</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: block">
+			
+				<div id="comment_77625234" class="b-comment" data-id="77625234" data-parent-id="77624971" data-level="2" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">0</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/tarampam"><span class="">tarampam</span></a> 
+								<span>отправлено</span>
+								<time class="b-comment__time" datetime="1481742086">2 часа назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77625234" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77625234" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" ></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" ></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<p>А куда собранный продукт девается, шерлок?</p>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_expand" style="display: inline-block">
+						<div class="b-comment-toggle__icon fa fa-plus-square"></div>
+						<div class="b-comment-toggle__count" style="display: block">раскрыть ветвь <span class="b-comment-toggle__count-text">10</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: none">
+			
+				<div id="comment_77625496" class="b-comment" data-id="77625496" data-parent-id="77625234" data-level="3" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">+2</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/Patrikey1"><img src="http://cs6.pikabu.ru/images/avatars/1280/s1280117-1009621478.jpg">&nbsp;<span class="">Patrikey1</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481742350">2 часа назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77625496" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77625496" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" ></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" ></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<p>В бункер комбайна, потом транспортируется на элеваторы/сушилки и т.д. А что?</p>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: inline-block">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">9</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: block">
+			
+				<div id="comment_77626106" class="b-comment" data-id="77626106" data-parent-id="77625496" data-level="4" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">0</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/Doost"><img src="http://cs6.pikabu.ru/images/avatars/8/s8197.jpg">&nbsp;<span class="">Doost</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481743024">1 час назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77626106" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77626106" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" ></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" ></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<p>Грузовики встают на загрузку сбоку от комбайна, а при построении "свиньей" для них места нет</p>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: inline-block">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">8</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: block">
+			
+				<div id="comment_77626826" class="b-comment" data-id="77626826" data-parent-id="77626106" data-level="5" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">0</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/mitrophan"><span class="">mitrophan</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481743749">1 час назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77626826" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77626826" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" ></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" ></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<p>Ну при царе горохе так комбайны и работали, да. Поищи в интернете любой современный комбайн. Там два бункера. Для зерна(или чего-то другого) и для мусора. Причем места в них довольно много, так что и грузовик уже не нужен</p>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: inline-block">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">6</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: block">
+			
+				<div id="comment_77627654" class="b-comment" data-id="77627654" data-parent-id="77626826" data-level="6" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">+1</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/makell"><img src="http://cs6.pikabu.ru/images/avatars/333/s333765-2140368939.jpg">&nbsp;<span class="">makell</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481744674">1 час назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77627654" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77627654" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" ></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" ></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<p>в новых комбайнах солому измельчают и за собой скидывают, никто ее в отдельном бункере не таскает или про какой мусор вообще речь? </p>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: inline-block">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">5</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: block">
+			
+				<div id="comment_77627800" class="b-comment" data-id="77627800" data-parent-id="77627654" data-level="7" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">0</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/mitrophan"><span class="">mitrophan</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481744854">1 час назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77627800" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77627800" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" ></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" ></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<p>Ну слыхал где-то, что сразу зерно просеивается в них же. Ну а про то, что сбрасывается, забыл, видимо)</p>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: inline-block">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">4</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: block">
+			
+				<div id="comment_77628029" class="b-comment" data-id="77628029" data-parent-id="77627800" data-level="8" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">0</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/makell"><img src="http://cs6.pikabu.ru/images/avatars/333/s333765-2140368939.jpg">&nbsp;<span class="">makell</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481745138">1 час назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77628029" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77628029" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" ></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" ></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<p>естественно зерно просеивается, это даже в древних комбайнах типа НИВА было, потом на зернохранилищах уже зерно доочищают при сушке. Во всяком случае так делали лет 20 назад, довелось у дяди на току летом поработать)</p>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: inline-block">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">3</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: block">
+			
+				<div id="comment_77628878" class="b-comment" data-id="77628878" data-parent-id="77628029" data-level="9" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">0</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/mitrophan"><span class="">mitrophan</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481746156">56 минут назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77628878" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77628878" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" ></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" ></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<p>Интересный опыт) Век живи - век учись)</p>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: none">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">0</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: none">
+			
+					</div>
+				</div>
+			
+				<div id="comment_77628257" class="b-comment" data-id="77628257" data-parent-id="77628029" data-level="9" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">0</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/Patrikey1"><img src="http://cs6.pikabu.ru/images/avatars/1280/s1280117-1009621478.jpg">&nbsp;<span class="">Patrikey1</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481745432">1 час назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77628257" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77628257" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" ></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" ></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							Не при сушке а до или после. На сотрировочных машинах.
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: inline-block">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">1</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: block">
+			
+				<div id="comment_77628890" class="b-comment" data-id="77628890" data-parent-id="77628257" data-level="0" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">0</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/makell"><img src="http://cs6.pikabu.ru/images/avatars/333/s333765-2140368939.jpg">&nbsp;<span class="">makell</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481746168">56 минут назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77628890" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77628890" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" ></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" ></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<p>хз..я был малой и эта работа мне не особо нравилась и я не сильно помню всех нюансов, я там дня 3 отпахал и понял что не в деньгах счастье)</p>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: none">
+						<div class="b-comment-toggle__icon fa fa-plus-square"></div>
+						<div class="b-comment-toggle__count" style="display: block">раскрыть ветвь <span class="b-comment-toggle__count-text">0</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_1 b-comments_new-line" style="display: none">
+			
+					</div>
+				</div>
+			
+					</div>
+				</div>
+			
+					</div>
+				</div>
+			
+					</div>
+				</div>
+			
+					</div>
+				</div>
+			
+					</div>
+				</div>
+			
+				<div id="comment_77626464" class="b-comment" data-id="77626464" data-parent-id="77626106" data-level="5" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">0</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/Patrikey1"><img src="http://cs6.pikabu.ru/images/avatars/1280/s1280117-1009621478.jpg">&nbsp;<span class="">Patrikey1</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481743372">1 час назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77626464" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77626464" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" ></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" ></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<p>Возможно поле не такое и длинное и выгрузка происходит на границе.</p>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: none">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">0</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: none">
+			
+					</div>
+				</div>
+			
+					</div>
+				</div>
+			
+					</div>
+				</div>
+			
+					</div>
+				</div>
+			
+					</div>
+				</div>
+			
+				<div id="comment_77625260" class="b-comment" data-id="77625260" data-parent-id="77624748" data-level="1" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">+1</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/Week2nd"><img src="http://cs6.pikabu.ru/images/avatars/1316/s1316770-955812535.jpg">&nbsp;<span class=" b-comment__user_author_story">Week2nd</span></a> 
+								<span>отправила</span>
+								<time class="b-comment__time" datetime="1481742116">2 часа назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77625260" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77625260" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" ></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" ></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<p>рыгоравич так не считает</p>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: none">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">0</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: none">
+			
+					</div>
+				</div>
+			
+					</div>
+				</div>
+			
+				<div id="comment_77631287" class="b-comment" data-id="77631287" data-parent-id="0" data-level="0" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария"><i class="i-sprite--comments__rating-lock i-sprite--inline-block" title="Рейтинг скрыт в течение 45 минут после добавления комментария"></i></div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/DiZZZliker"><img src="http://cs6.pikabu.ru/images/avatars/965/s965191-2145193361.jpg">&nbsp;<span class="">DiZZZliker</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481749465">1 минуту назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77631287" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77631287" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							 <div class="b-p b-p_type_image"><a href="http://cs8.pikabu.ru/images/big_size_comm/2016-12_3/148174946412619102.jpg"><img class="b-image" data-viewable="true" data-large-image="http://s8.pikabu.ru/images/big_size_comm/2016-12_3/148174946412619102.jpg" src="http://cs8.pikabu.ru/images/previews_comm/2016-12_3/148174946412619102.jpg" data-width="400" data-height="266"></a></div>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: none">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">0</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: none">
+			
+					</div>
+				</div>
+			
+				<div id="comment_77631257" class="b-comment" data-id="77631257" data-parent-id="0" data-level="0" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария"><i class="i-sprite--comments__rating-lock i-sprite--inline-block" title="Рейтинг скрыт в течение 45 минут после добавления комментария"></i></div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/Igor678"><img src="http://cs6.pikabu.ru/images/avatars/773/s773540-1663805492.jpg">&nbsp;<span class="">Igor678</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481749415">2 минуты назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77631257" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77631257" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<p>хлопцы, то должны быть трахтара с трасилками!</p>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: none">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">0</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: none">
+			
+					</div>
+				</div>
+			
+				<div id="comment_77630965" class="b-comment" data-id="77630965" data-parent-id="0" data-level="0" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария"><i class="i-sprite--comments__rating-lock i-sprite--inline-block" title="Рейтинг скрыт в течение 45 минут после добавления комментария"></i></div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/ilvol"><span class="">ilvol</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481748987">9 минут назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77630965" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77630965" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							Лорд огня никак не угомонится<div class="b-p b-p_type_image"><a href="http://cs8.pikabu.ru/images/big_size_comm/2016-12_3/1481748986162923166.png"><img class="b-image" data-viewable="true" data-large-image="http://s8.pikabu.ru/images/big_size_comm/2016-12_3/1481748986162923166.png" src="http://cs8.pikabu.ru/images/previews_comm/2016-12_3/1481748986162923166.png" data-width="400" data-height="266"></a></div>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: none">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">0</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: none">
+			
+					</div>
+				</div>
+			
+				<div id="comment_77629392" class="b-comment" data-id="77629392" data-parent-id="0" data-level="0" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">0</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/rasulbatyr"><img src="http://cs6.pikabu.ru/images/avatars/983/s983697-799853598.jpg">&nbsp;<span class="">rasulbatyr</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481746778">46 минут назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77629392" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77629392" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							Почему то, когда речь идёт о сельхозяйственной деятельности в поле, я всегда вспоминаю слова деда:<br>&quot;Лошадь идёт поперёк борозды<br>И ей до узды, и мне до пизды&quot;
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: none">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">0</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: none">
+			
+					</div>
+				</div>
+			
+				<div id="comment_77626448" class="b-comment" data-id="77626448" data-parent-id="0" data-level="0" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">0</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/Ertyu5"><img src="http://cs6.pikabu.ru/images/avatars/833/s833442-579308845.jpg">&nbsp;<span class="">Ertyu5</span></a> 
+								<span>отправлено</span>
+								<time class="b-comment__time" datetime="1481743355">1 час назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77626448" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77626448" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<p>И музыку из Бригады</p>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: none">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">0</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: none">
+			
+					</div>
+				</div>
+			
+				<div id="comment_77625787" class="b-comment" data-id="77625787" data-parent-id="0" data-level="0" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">0</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/PokaEbu"><span class="">PokaEbu</span></a> 
+								<span>отправлено</span>
+								<time class="b-comment__time" datetime="1481742666">1 час назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77625787" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77625787" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							Имперские силы
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: none">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">0</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: none">
+			
+					</div>
+				</div>
+			
+				<div id="comment_77626688" class="b-comment" data-id="77626688" data-parent-id="0" data-level="0" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">-1</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/BatonioAnderans"><img src="http://cs6.pikabu.ru/images/avatars/1416/s1416702-172976543.jpg">&nbsp;<span class="">BatonioAnderans</span></a> 
+								<span>отправил</span>
+								<time class="b-comment__time" datetime="1481743604">1 час назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77626688" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77626688" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<p>Это Парагвай, а не Белораша!</p><p>Нас наебали - расходимся</p>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: none">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">0</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: none">
+			
+					</div>
+				</div>
+			
+				<div id="comment_77625044" class="b-comment" data-id="77625044" data-parent-id="0" data-level="0" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">-2</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/BELArus1"><img src="http://cs6.pikabu.ru/images/avatars/1060/s1060687-572462376.jpg">&nbsp;<span class="">BELArus1</span></a> 
+								<span>отправлено</span>
+								<time class="b-comment__time" datetime="1481741878">2 часа назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77625044" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77625044" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							Без картохи???-не не у нас...
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: none">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">0</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: none">
+			
+					</div>
+				</div>
+			
+			<div class="comments__hidden-group" style="display: none">
+				
+				<div id="comment_77624574" class="b-comment" data-id="77624574" data-parent-id="0" data-level="0" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">-6</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/Homoproletarius"><img src="http://cs6.pikabu.ru/images/avatars/1094/s1094804-1060524584.jpg">&nbsp;<span class="">Homoproletarius</span></a> 
+								<span>отправлено</span>
+								<time class="b-comment__time" datetime="1481741387">2 часа назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77624574" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77624574" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<p>В Белоруссии)<br></p>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: inline-block">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">1</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: block">
+			
+				<div id="comment_77625235" class="b-comment" data-id="77625235" data-parent-id="77624574" data-level="1" data-editable="false" data-vote="0">
+					<div class="b-comment__body ">
+						<div class="b-comment__header">
+							<div class="b-comment__rating-count" title="Рейтинг комментария">0</div>
+							<ul class="b-comment__rating">
+								<li class="b-comment__rating-up" data-rating="up">
+									<i class="i-sprite--comments__rating-up"></i>
+								</li>
+								<li class="b-comment__rating-down" data-rating="down">
+									<i class="i-sprite--comments__rating-down"></i>
+								</li>
+							</ul>
+							<div class="b-comment__user">
+								<a href="http://pikabu.ru/profile/Week2nd"><img src="http://cs6.pikabu.ru/images/avatars/1316/s1316770-955812535.jpg">&nbsp;<span class=" b-comment__user_author_story">Week2nd</span></a> 
+								<span>отправила</span>
+								<time class="b-comment__time" datetime="1481742087">2 часа назад</time>
+							</div>
+							<!--noindex-->
+							<div class="b-comment__tools">
+								<div class="b-comment__tool b-comment__tool-link" title="Ссылка на комментарий"><a name="comment_77625235" href="http://pikabu.ru/story/perfektsionizm_v_belarusi_4685676#comment_77625235" class="" title="" >#</a></div>
+
+								<div class="b-comment__tool b-comment__tool-root i-sprite--comments__root" title="Показать родительский комментарий" ></div>
+								<div class="b-comment__tool b-comment__tool-root-back i-sprite--comments__root-back" title="Вернуться обратно" style="display: none"></div>
+								<div class="b-comment__tool b-comment__tool-branch i-sprite--comments__branch" title="Показать/скрыть ветку комментариев" ></div>
+								<div class="b-comment__tool b-comment__tool-save i-sprite--comments__save" title="Сохранить"></div>
+			
+							</div>
+							<!--/noindex-->
+						</div>
+						<!--noindex-->
+						<span class="b-comment__content-toggle"  style="display: none">показать комментарий</span>
+						<!--/noindex-->
+						<div class="b-comment__content">
+							<p>ай, молодец!</p>
+			
+						</div>
+						<!--noindex-->
+						<div class="b-comment__controls" style="display: block">
+							<button class="b-button b-comment__control b-comment__control-reply " data-ignore-code="0">ответить</button>
+							<button class="b-button b-comment__control b-comment__control-edit" style="display: none">редактировать</button>
+							<button class="b-button b-comment__control b-comment__control-remove" style="display: none">удалить</button>
+							<span class="b-comment__control-error" style="display: none"></span>
+						</div>
+						<div class="b-comment__reply-wrapper" style="display: none"></div>
+						<!--/noindex-->
+					</div>
+					<div class="b-comment-toggle b-comment-toggle_type_collapse" style="display: none">
+						<div class="b-comment-toggle__icon fa fa-minus-square-o"></div>
+						<div class="b-comment-toggle__count" style="display: none">раскрыть ветвь <span class="b-comment-toggle__count-text">0</span> <i class="i-sprite--inline-block i-sprite--comments__show"></i></div>
+					</div>
+					<div class="b-comments b-comments_level_0" style="display: none">
+			
+					</div>
+				</div>
+			
+					</div>
+				</div>
+			
+			</div>
+			<div class="b-comments-toggle">
+				<div class="b-comments-toggle__count">ещё комментарии</div> 
+			</div>
+				
+				</div>
+			
+						<table>
+							<tr>
+								<td>
+									<div style="margin-left: 91px; margin-top: 5px; width: 530px" class="story__gag-container">
+					
+				<div class="story__gag story__gag_relative">
+					<div id="yandex_ad_1481749559_89922" data-ad="yandex_ctx_story"></div>
+				</div>
+				<script type="text/javascript">
+					(function(w, d, n, s, t) {
+						w[n] = w[n] || [];
+						w[n].push(function() {
+							Ya.Direct.insertInto(
+								56459,
+								"yandex_ad_1481749559_89922",
+								{"site_charset":"windows-1251","stat_id":"4","ad_format":"direct","font_size":0.8,"font_family":"tahoma","type":"horizontal","border_type":"none","limit":1,"title_font_size":3,"site_bg_color":"FFFFFF","header_bg_color":"FFFFFF","bg_color":"FFFFFF","title_color":"217CB6","url_color":"777777","all_color":"777777","text_color":"444444","sitelinks_color":"777777","hover_color":"777777"}
+							);
+						});
+						t = d.documentElement.firstChild;
+						s = d.createElement("script");
+						s.type = "text/javascript";
+						s.src = "http://an.yandex.ru/system/context.js";
+						s.setAttribute("async", "true");
+						t.insertBefore(s, t.firstChild);
+					})(window, document, "yandex_context_callbacks");
+				</script>
+			
+									</div>
+								</td>
+							</tr>
+						</table>
+					
+				<div class="b-comments__reply"></div>
+			
+					<!-- RELATED STORIES BLOCK -->
+					<div id="related-stories" data-id="4685676" data-count="2">
+						<div class="b-related-stories">
+				
+						<div class="rs-title">Похожие посты</div>
+					
+					<div class="rs-stories"></div>
+					<a class="rs-more-btn" target="_blank">показать ещё</a>
+				
+						<div class="b-related-stories-tags">
+							<div>Похожие посты закончились. Возможно, вас заинтересуют другие посты по тегам:</div>
+					
+							<a href="/tag/Беларусь/hot" style="text-decoration: none">
+								<span class="tag no_ch">Беларусь</span>
+							</a>
+						
+							<a href="/tag/поле/hot" style="text-decoration: none">
+								<span class="tag no_ch">поле</span>
+							</a>
+						
+							<a href="/tag/идеально/hot" style="text-decoration: none">
+								<span class="tag no_ch">идеально</span>
+							</a>
+						
+						</div>
+					
+						</div>
+					</div>
+
+				
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				
+							</td>
+				        </tr>
+				    </table>
+				</td>
+			
+				    <td style="vertical-align: top" class="personal">
+				        <!--[start right menu]-->
+						<div id="right_menu" class="menu-cont">
+							<div class="header_links header-nav-top">
+								<ul class="header_links" style="margin-right: 1%">
+									<li><a href="http://pikabu.ru/tag">список тегов</a></li>
+									<li><a href="http://pikabu.ru/disputed">обсуждаемое</a></li>
+									<li><a href="http://pikabu.ru/search.php?n=16&r=3">[моё]</a></li>
+									<li><a href="http://pikabu.ru/html.php?id=faq">FAQ</a></li>
+									<li><a href="http://pikabu.ru/html.php?id=ad">реклама</a></li>
+								</ul>
+							</div>
+							<div id="serach_block" class="header-search-box">
+								<form name="form1" method="get" action="http://pikabu.ru/search.php">
+									<div>
+										<input type="text" name="q" id="search_menu" value="" class="search_block" placeholder="поиск..."><input
+											type="image" src="http://cs.pikabu.ru/images/search_btn4n.png" class="search_btn" value="">
+									</div>
+								</form>
+							</div>
+				
+				<!--[start auth block]-->
+				<div class="b-sign">
+					<div class="b-tabs b-tabs_type_sign">
+						<ul class="b-tabs__list b-tabs__list_justify_center">
+							<li class="b-tabs_li_active_yes">Авторизация</li>
+							<li>Регистрация</li>
+						</ul>
+						<div class="b-tabs__container">
+							<!-- Войти -->
+							<div class="b-tabs__tab b-tabs__tab_active_yes b-sign__in">
+								<form method="post" onsubmit="void(0);" action="javascript:void(0);">
+									<input type="hidden" name="mode" value="login">
+
+									<div class="b-group b-group_margin-bottom_10">
+										<input data-name="username" class="b-input" type="text" id="username"  autocomplete="username" maxlength="255" name="username" placeholder="логин">
+										<input data-name="password" class="b-input" type="password" id="password"  autocomplete="password" maxlength="255" name="password" placeholder="пароль">
+									</div>
+									<div class="b-sign__captcha" style="display: none"></div>
+									<div class="b-group">
+										<div class="b-sign__oauth-providers">
+											<a href="http://pikabu.ru/oauth.php?type=vk">
+												<i class="i-sprite--sign__vk i-sprite--inline-block"></i>
+											</a> <a href="http://pikabu.ru/oauth.php?type=fb">
+												<i class="i-sprite--sign__facebook i-sprite--inline-block"></i>
+											</a> <a href="http://pikabu.ru/oauth.php?type=tw">
+												<i class="i-sprite--sign__twitter i-sprite--inline-block"></i>
+											</a> <a href="http://pikabu.ru/oauth.php?type=google">
+												<i class="i-sprite--sign__google i-sprite--inline-block"></i>
+											</a>
+										</div>
+										<button type="submit" class="b-button b-button_type_default">войти</button>
+									</div>
+									<div class="b-sign__error" style="display: none">
+										<div class="b-sign__error-message">Неверный логин или пароль</div>
+										<a class="b-link b-link_type_primary" href="/login.php?retrieve=1">Восстановить пароль</a>
+									</div>
+								</form>
+							</div>
+							<!-- Зарегистрироватся -->
+							<div class="b-tabs__tab b-sign__up">
+								<div class="b-sign__oauth-label">Через социальную сеть</div>
+								<div class="b-sign__oauth-providers">
+									<a href="http://pikabu.ru/oauth.php?type=vk">
+										<i class="i-sprite--sign__vk i-sprite--inline-block"></i>
+									</a> <a href="http://pikabu.ru/oauth.php?type=fb">
+										<i class="i-sprite--sign__facebook i-sprite--inline-block"></i>
+									</a> <a href="http://pikabu.ru/oauth.php?type=tw">
+										<i class="i-sprite--sign__twitter i-sprite--inline-block"></i>
+									</a> <a href="http://pikabu.ru/oauth.php?type=google">
+										<i class="i-sprite--sign__google i-sprite--inline-block"></i>
+									</a>
+								</div>
+								<div class="b-sign__oauth-hr"></div>
+								<form name="form2" id="form2">
+									<span class="b-sign__validate b-sign__validate_state_error" data-name="all"></span>
+									<div>
+										<label for="signup-u">Логин
+											<span class="b-sign__validate b-sign__validate_state_error" data-name="username"></span>
+										</label>
+									</div>
+									<div>
+										<input id="signup-u" data-name="username" class="b-input" autocomplete="off" type="text" maxlength="255" value="">
+									</div>
+									<div>
+										<label for="signup-e">Email
+											<span class="b-sign__validate b-sign__validate_state_error" data-name="email"></span>
+										</label>
+									</div>
+									<div>
+										<input data-name="email" class="b-input" type="email" autocomplete="off" maxlength="255" value="">
+									</div>
+									<div class="b-sign__password">
+										<label for="signup-p">Пароль
+											<span class="b-sign__validate b-sign__validate_state_error" data-name="password"></span>
+										</label>
+
+										<div class="b-sign__password-view fa fa-eye"></div>
+										<input id="signup-p" data-name="password" class="b-input" data-additional="_2j0NV9" type="password" maxlength="255" autocomplete="off" value="">
+
+										<div class="b-password-strength">
+											<div class="b-password-strength__bar"></div>
+										</div>
+									</div>
+									<span class="b-sign__validate b-sign__validate_state_error" data-name="g-recaptcha-response"></span>
+									<div class="b-sign__captcha"></div>
+									<button type="submit" class="b-button b-button_type_create b-button_width_p100">Зарегистрироваться</button>
+								</form>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!--[end auth block]-->
+			
+				<div class="login_f menu-add-btn">
+					<a onclick="show_reg_msg();event.preventDefault();">
+						<div class="b-button b-button_type_green">
+							<img src="http://cs.pikabu.ru/images/addbutton2014_plus.png">
+							<div id="addnews_div">добавить пост</div>
+						</div>
+					</a>
+				</div>
+			
+						<div class="login_f menu-block">
+					
+					<table cellspacing="0" class="best_comm">
+						<tr>
+							<td class="rating_bl menu-block-title">
+								<div>
+									Комментарий дня
+									<span class="menu-block-title-right">
+										<a href="http://pikabu.ru/top50_comm.php">ТОП 50</a>
+									</span>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td class="menu-best-comm">
+				
+				<div class="menu-story-link">
+					<a href="http://pikabu.ru/story/ktonibud_rasskazhet_kak_yeto_sozdavalos_togda_nevozmozhno_osoznat_4683822">Кто-нибудь расскажет, как это создавалось тогда? Невозможно осознать.</a>
+				</div>
+				<div class="info info_c menu-comm-head">
+                    <h6>+1826</h6>&nbsp;
+                    <a href="http://pikabu.ru/profile/FlyAlone">FlyAlone</a>; <a style="text-decoration: none;"
+                        class="detailDate" href="javascript:void(0)" title="1481686551">17 часов назад</a>
+                    <a href="http://pikabu.ru/story/ktonibud_rasskazhet_kak_yeto_sozdavalos_togda_nevozmozhno_osoznat_4683822#comment_77573221" title="ссылка на данный комментарий">#</a>
+				</div>
+                <div class="comment_msg comment_desc menu-comm-desc">
+					
+				<div class="b-comment-best" data-overflow="0">
+					<p>Да это уже было изначально в мраморе, просто взяли глыбу и отсекли всё лишнее</p>
+				</div>
+			
+                </div>
+			
+								</td>
+							</tr>
+						</table>
+					</div>
+				
+				<table border="0" cellspacing="0" cellpadding="0" style="width: 300px; margin: 15px 0 0 5px; padding: 0px; text-align: center">
+					<tr width="100%">
+					<td style="width: auto; font-size: 13px; text-align: center">
+			
+					<!-- R-56459-35 Яндекс.RTB-блок  -->
+					<div id="yandex_ad_R-56459-35"></div>
+					<script type="text/javascript">
+						(function(w, d, n, s, t) {
+							w[n] = w[n] || [];
+							w[n].push(function() {
+								Ya.Context.AdvManager.render({
+									blockId: "R-56459-35",
+									renderTo: "yandex_ad_R-56459-35",
+									async: true
+								});
+							});
+							t = d.getElementsByTagName("script")[0];
+							s = d.createElement("script");
+							s.type = "text/javascript";
+							s.src = "//an.yandex.ru/system/context.js";
+							s.async = true;
+							t.parentNode.insertBefore(s, t);
+						})(this, this.document, "yandexContextAsyncCallbacks");
+					</script>
+				
+						<div id="facebook_page_block" style="display: none"></div>
+						<script src="http://cs.pikabu.ru/files/advertising.js"></script>
+			
+					<script>
+						if (!("ab" in window)) { window.ab = true; }
+						var result = document.getElementById("facebook_page_block");
+						if (window.ab == true) {
+							document.getElementById("facebook_page_block").style.display = "block";
+							result.innerHTML = '<a href="/community/diet_power" target="_blank">\
+							    <img src="http://cs.pikabu.ru/images/communities_v4/diet_power.jpg" title="Лига диетологов" alt="Лига диетологов" \
+							    style="border: none; width: 300px; height: 250px; background-color: white;">\
+							    </a>';
+						}
+					</script>
+				
+					</td>
+					</tr>
+				</table>
+			
+					<div class="right_menu_ads">
+				
+				<div class="story__gag story__gag_relative">
+					<div id="yandex_ad_1481749559_72469" data-ad="yandex_ctx_menu"></div>
+				</div>
+				<script type="text/javascript">
+					(function(w, d, n, s, t) {
+						w[n] = w[n] || [];
+						w[n].push(function() {
+							Ya.Direct.insertInto(
+								56459,
+								"yandex_ad_1481749559_72469",
+								{"site_charset":"windows-1251","stat_id":"3","ad_format":"direct","font_size":1,"font_family":"tahoma","type":"posterVertical","border_type":"block","limit":2,"title_font_size":3,"site_bg_color":"FFFFFF","header_bg_color":"FFFFFF","bg_color":"FFFFFF","title_color":"5190B8","url_color":"008900","text_color":"676767","sitelinks_color":"777777","hover_color":"5190B8","border_color":"D7D7D7","favicon":true,"no_sitelinks":false}
+							);
+						});
+						t = d.documentElement.firstChild;
+						s = d.createElement("script");
+						s.type = "text/javascript";
+						s.src = "http://an.yandex.ru/system/context.js";
+						s.setAttribute("async", "true");
+						t.insertBefore(s, t.firstChild);
+					})(window, document, "yandex_context_callbacks");
+				</script>
+			
+					</div>
+				
+					<div class="login_f menu-top-tags">
+						<table cellpadding="0">
+							<tr>
+								<td class="rating_bl b-community-top-caption">
+									Активные сообщества
+									<i class="fa fa-question-circle" data-content-html="
+					Список активных сообществ обновляется каждый час.&lt;br&gt;
+					&lt;br&gt;
+					Положительные факторы, влияющие на позицию в рейтинге:&lt;br&gt;
+					&amp;bull; количество постов за сутки&lt;br&gt;
+					&amp;bull; общий рейтинг суточных постов&lt;br&gt;
+					&lt;br&gt;
+					Отрицательный фактор:&lt;br&gt;
+					&amp;bull; количество пользователей, добавивших сообщество в игнор-лист
+				" aria-hidden="true"></i>
+								</td>
+							</tr>
+							<tr>
+								<td class="menu-top-tags-cont">
+				
+						<div class="b-community-line">
+							<a href="/community/true_story">
+								<img src="http://cs8.pikabu.ru/images/community/1068/1480601857290150095.png" alt="">
+								<span class="b-community-line__name">Истории из жизни</span>
+					
+							</a>
+						</div>
+					
+						<div class="b-community-line">
+							<a href="/community/science">
+								<img src="http://cs8.pikabu.ru/images/community/652/1467132541217460097.png" alt="">
+								<span class="b-community-line__name">Наука | Science</span>
+					
+							</a>
+						</div>
+					
+						<div class="b-community-line">
+							<a href="/community/hand_made">
+								<img src="http://cs4.pikabu.ru/images/community/623/1465217578239422092.png" alt="">
+								<span class="b-community-line__name">Рукодельники</span>
+					
+							</a>
+						</div>
+					
+						<div class="b-community-line">
+							<a href="/community/gamers">
+								<img src="http://cs8.pikabu.ru/images/community/84/1480663051270122818.png" alt="">
+								<span class="b-community-line__name">Лига Геймеров</span>
+					
+							</a>
+						</div>
+					
+						<div class="b-community-line">
+							<a href="/community/skrincom">
+								<img src="http://cs8.pikabu.ru/images/community/380/1475757960161096788.png" alt="">
+								<span class="b-community-line__name">Скриншоты коментов</span>
+					<span class="b-community-line__up"><i class="fa fa-long-arrow-up" aria-hidden="true"></i>2</span>
+							</a>
+						</div>
+					
+						<div class="b-community-line">
+							<a href="/community/lhack">
+								<img src="http://cs8.pikabu.ru/images/community/611/1480717740251070947.png" alt="">
+								<span class="b-community-line__name">Лайфхак</span>
+					<span class="b-community-line__down"><i class="fa fa-long-arrow-down" aria-hidden="true"></i>1</span>
+							</a>
+						</div>
+					
+						<div class="b-community-line">
+							<a href="/community/china">
+								<img src="http://cs4.pikabu.ru/images/community/283/1465284176258796323.png" alt="">
+								<span class="b-community-line__name">Товары из Поднебесной</span>
+					<span class="b-community-line__up"><i class="fa fa-long-arrow-up" aria-hidden="true"></i>1</span>
+							</a>
+						</div>
+					
+						<div class="b-community-line">
+							<a href="/community/comics">
+								<img src="http://cs9.pikabu.ru/images/community/343/1475673074298849556.png" alt="">
+								<span class="b-community-line__name">Комиксы</span>
+					<span class="b-community-line__down"><i class="fa fa-long-arrow-down" aria-hidden="true"></i>2</span>
+							</a>
+						</div>
+					
+						<div class="b-community-line">
+							<a href="/community/novosti">
+								<img src="http://cs8.pikabu.ru/images/community/506/1470656486293795641.png" alt="">
+								<span class="b-community-line__name">Новости</span>
+					
+							</a>
+						</div>
+					
+						<div class="b-community-line">
+							<a href="/community/history">
+								<img src="http://cs8.pikabu.ru/images/community/296/1465284012270781463.png" alt="">
+								<span class="b-community-line__name">Лига историков</span>
+					
+							</a>
+						</div>
+					
+							</td>
+						</tr>
+						<tr>
+							<td class="menu-top-tags-links">
+								<div class="tag_all">
+									<a href="http://pikabu.ru/communities/all">все сообщества</a>
+									<a href="http://pikabu.ru/community_edit.php">создать</a>
+								</div>
+							</td>
+						</tr>
+					</table>
+					</div>
+				
+					<div class="login_f menu-top-tags">
+						<table cellpadding="0">
+							<tr>
+								<td class="rating_bl">Тенденции</td>
+							</tr>
+				
+						<tr>
+							<td class="menu-top-tags-cont">
+					
+							<div class="allMenuTags">
+								<a class="no_ch" href="http://pikabu.ru/tag/ёлка/hot"><span
+									class="tag no_ch">ёлка</span>
+								<span class="tag_count">24</span></a>
+							</div>
+						
+							<div class="allMenuTags">
+								<a class="no_ch" href="http://pikabu.ru/tag/новогодний обмен подарками/hot"><span
+									class="tag no_ch">новогодний обмен подарками</span>
+								<span class="tag_count">10</span></a>
+							</div>
+						
+							</td>
+						</tr>
+						<tr>
+							<td class="menu-top-tags-links">
+								<div class="tag_all">
+									<a href="http://pikabu.ru/tag" style="margin-right: 10px;">все теги</a>
+									<a href="http://pikabu.ru/tags_merge">объединение тегов</a>
+								</div>
+							</td>
+						</tr>
+					
+						</table>
+					</div>
+				
+				<div style="overflow: hidden; margin-top: 10px; margin-left: 17px;">
+			
+					<!-- R-56459-21 Яндекс.RTB-блок  -->
+					<div id="yandex_ad_R-56459-21"></div>
+					<script type="text/javascript">
+						(function(w, d, n, s, t) {
+							w[n] = w[n] || [];
+							w[n].push(function() {
+								Ya.Context.AdvManager.render({
+									blockId: "R-56459-21",
+									renderTo: "yandex_ad_R-56459-21",
+									async: true
+								});
+							});
+							t = d.getElementsByTagName("script")[0];
+							s = d.createElement("script");
+							s.type = "text/javascript";
+							s.src = "//an.yandex.ru/system/context.js";
+							s.async = true;
+							t.parentNode.insertBefore(s, t);
+						})(this, this.document, "yandexContextAsyncCallbacks");
+					</script>
+				
+				</div>
+			<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28292940-1']);
+  _gaq.push(['_setDomainName', 'pikabu.ru']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+				<br><br><br><br><br><br><br><br><br><br><br><br>
+			
+						<!--[end right menu]-->
+						</div>
+						</td>
+						</tr>
+				
+					</table>
+					<br><br>
+				</div>
+			
+				<noindex>
+					<div id="unreg_message" class="header-message-signup">
+						Пожалуйста, <a href="#login_block_btn_enter" class="gotoLoginForm" id="showLogForm">войдите</a>
+						в аккаунт или <a href="#login_block_btn_enter" class="gotoLoginForm" id="showRegForm">зарегистрируйтесь</a>
+					</div>
+					<div id="error_message" class="header-message-err"></div>
+				</noindex>
+			
+				<table class="footer_links footer-table">
+					<tr>
+					<td id="footer_links_td" class="footer-links">
+						<img src="http://cs.pikabu.ru/images/rss.png"><a href="http://pikabu.ru/xmlfeeds.php?cmd=popular">RSS</a>
+
+						<span>&nbsp;</span>
+						<a href="http://m.pikabu.ru">Мобильная версия</a>
+
+						<span>&nbsp;</span>
+						<a href="http://pikabu.ru/html.php?id=wtf">Правила</a>
+
+						<span>&nbsp;</span>
+						<a href="http://pikabu.ru/html.php?id=faq">FAQ</a>
+
+						<noindex>
+							<span>&nbsp;</span>
+							<a href="http://pikabu.ru/banned_users.php" rel="nofollow">Бан</a>
+						</noindex>
+
+						<span>&nbsp;</span>
+						<a href="http://pikabu.ru/html.php?id=ad">Реклама</a>
+					</td>
+					</tr>
+				</table>
+
+				<table class="footer_links2 footer-table">
+					<tr>
+					<td class="footer-links" id="footer_links_td" style="width: 67%">
+						Партнеры: <img src="http://cs.pikabu.ru/images/partners/blackbears.png">
+						<noindex><a href="https://vk.com/blackbearsmobi" target="_blank" rel="nofollow">BlackBears</a></noindex>
+					</td>
+					<td style="width: 15%"></td>
+					<td style="width: 17%">
+						<div class="footer-fornex">
+							<noindex>
+								<span>Хостинг:</span>
+								<a href="http://fornex.com/" target="_blank" rel="nofollow">Fornex.com</a>
+							</noindex>
+						</div>
+					</td>
+					</tr>
+				</table>
+
+				<table class="footer footer-table footer-table-bottom" >
+					<tr >
+					<td class="copy" style="width: 70%; line-height: 1.3;">
+						<div class="footer-social">
+							<span><img src="http://cs.pikabu.ru/images/vk_pikabu.png"> <a href="http://vk.com/pikabu" target="_blank" >Вконтакте</a></span>
+							<span style="margin-left:10px"><img src="http://cs.pikabu.ru/images/fb_3.png"> <a href="https://www.facebook.com/pikabu.ru" target="_blank" >Facebook</a></span>
+							<!-- <span style="margin-left:10px"><img src="http://cs.pikabu.ru/images/tw_3.png"> <a href="https://twitter.com/pikabu_vk" target="_blank" >Twitter</a></span> -->
+						</div>
+						<div class="footer-contact">
+							<div>
+  								По вопросам работы сайта: <a href="mailto:admin@pikabu.ru">admin@pikabu.ru</a><br>
+  								<a href="http://pikabu.ru/community/feature_request" style="color: inherit;">Внести предложение</a><br>
+  								<br>
+  							</div>
+							<div>
+								Служба поддержки: <a href="mailto:support@pikabu.ru">support@pikabu.ru</a><br>
+  								<a href="http://pikabu.ru/community/bugreports" style="color: inherit;">Сообщить об ошибке</a><br>
+  								<br> 						
+  							</div>
+  							<div>
+  								По вопросам <a href="http://pikabu.ru/html.php?id=ad" style="color: inherit;">рекламы</a>: <a href="mailto:ads@pikabu.ru">ads@pikabu.ru</a>
+  							</div>
+						</div>
+					</td>
+
+					<td class="copy counter" style="width: 15%">
+						<div class="footer-counter-liveinternet">
+							<noindex>
+							
+							<!--LiveInternet counter--><script type="text/javascript"><!--
+								new Image().src = "//counter.yadro.ru/hit;Pikabu?r"+
+								escape(document.referrer)+((typeof(screen)=="undefined")?"":
+								";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+								screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+								";"+Math.random();//--></script><!--/LiveInternet-->
+							</noindex>
+							<!--LiveInternet logo-->
+								<a href="http://www.liveinternet.ru/click;Pikabu" target="_blank">
+									<img src="//counter.yadro.ru/logo;Pikabu?17.2" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" alt="" border="0" width="88" height="31">
+								</a>
+							<!--/LiveInternet-->
+							
+						</div>
+					</td>
+					<td class="copy" style="width: 15%">
+						<noindex>
+						<div>
+							<div class="footer-pechenka">
+								<div id="brovdiv">
+				<a href="http://pikabu.ru/story/_2163210">
+					<img id="brov" style="" src="http://cs.pikabu.ru/images/fun/pechenka_dancingqueen.png"
+						title="Печенюх [by DancingQueen]">
+				</a>
+			</div>
+							</div>
+
+							<!-- Yandex.Metrika counter -->
+							<script type="text/javascript">
+								(function (d, w, c) {
+								    (w[c] = w[c] || []).push(function() {
+								        try {
+								            w.yaCounter174977 = new Ya.Metrika({id:174977});
+								        } catch(e) { }
+								    });
+
+								    var n = d.getElementsByTagName("script")[0],
+								        s = d.createElement("script"),
+								        f = function () { n.parentNode.insertBefore(s, n); };
+								    s.type = "text/javascript";
+								    s.async = true;
+								    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+								    if (w.opera == "[object Opera]") {
+								        d.addEventListener("DOMContentLoaded", f, false);
+								    } else { f(); }
+								})(document, window, "yandex_metrika_callbacks");
+							</script>
+							<noscript>
+								<div><img src="//mc.yandex.ru/watch/174977" style="position:absolute; left:-9999px;" alt="" /></div>
+							</noscript>
+							<!-- /Yandex.Metrika counter -->
+			
+
+						</div>
+						<div style="visibility: hidden">
+							<script type="text/javascript">
+								(window.Image ? (new Image()) : document.createElement("img")).src = location.protocol
+									+ "//vk.com/rtrg?r=y5YLGMdFGMussDQo9RKwt0ZXBhlVHz9Wk1keHFw1GGi6umhFgCHTD4vYUnpy9t2guau7nCXi4p4lZy6g4RVVeaj0ksWvpbGL8xl53mDcbKBtPgigBg/8OUM2g6lhNPstAMipZiDFYJpEV0LDXYgKucnNBBRu3QHNQbNNZnE/Zmg-";
+							</script>
+						</div>
+						</noindex>
+					</td>
+					</tr>
+				</table>
+			
+				<div style="display:none" id="comment_8386818">
+				    <div class="b-comment__body">
+				        <span style="color: rgb(136, 136, 136)"></span>
+				    </div>
+				    <div class="b-comment__controls"></div>
+				</div>
+			
+				</body>
+				</html>
+			
